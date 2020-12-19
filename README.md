@@ -1,4 +1,5 @@
-[![](https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 
 🌱 I’m currently learning ...
 
