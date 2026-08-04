@@ -1,43 +1,19 @@
-🌱 I’m currently learning ...
+<div align="center">
+  <img src="https://raw.githubusercontent.com/big-mon/big-mon/wryyyyyy/assets/tasogaregirl.jpg" width="30%" align="right" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=500&duration=4000&pause=300&color=BAB49D&center=true&multiline=true&repeat=false&width=650&height=60&lines=Hello+there;I'm+Mon%2C+a+tech+goblin+%E2%80%94+and+gone+with+the+wind..." alt="Typing SVG" /></a>
+  <br><br>
+  
+<pre>
+🛠 Browser extensions • Tiny web apps • Automation
+🤖 AI agents • Markdown • Cloudflare
+🎮 Games • Anime • Photography
+</pre>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-
-自分用に作ったGoogle Chrome用の拡張機能の公開、Webサービス関連技術の勉強用にGitHubを使用しています。
-
-**ポートフォリオ(勉強の副産物)**
-
-- [nextjs-lustario](https://github.com/big-mon/nextjs-lustario)
-  - Next.js用のブログテンプレートです。
-- [nextjs-estrilda](https://github.com/big-mon/nextjs-estrilda)
-  - Next.js用のブログテンプレートです。
-- [Alpha Gazer](https://github.com/big-mon/edgar-viewer)
-  - EDGARで公開される決算データForm 10-Kをグラフ化して表示します。
-
-**npmパッケージ**
-
-- [react-component-amazon](https://www.npmjs.com/package/@big-mon/react-component-amazon)
-  - 自分用のブログで使用するAmazonの商品紹介用ブログパーツをコンポーネント化しています。
-
-**Google Chrome用の拡張機能**
-
-- [Devola: Amazon Wishlist Point Visualization](https://github.com/big-mon/amazon-wishlist-pointgetter)
-  - Amazon.co.jpのウィッシュリストとランキングページを開いた際、獲得できるポイント量を追加表示します。
-- [FF14 The Lodestone Improve: Astrild](https://github.com/big-mon/ff14-lodestone-view)
-  - Final Fantasy 14公式コミュニティサイトの見た目を変更、簡易ブロックリスト機能を追加します。
-
-**Serverlss Function**
-
-- [Fetch JSON using Cache](https://github.com/big-mon/serverless-cache-fetch)
-  - Cloudflare Workersで駆動するキャッシュを有効化したJSONのフェッチを行うコードの作例です。
+  <br>
+  
+  <!--
+  ![](https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+  ![](https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+  -->
+  <img src="https://raw.githubusercontent.com/big-mon/big-mon/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+</div>
